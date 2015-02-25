@@ -18,3 +18,9 @@ Extract user and event info.
 ```` rb
 EventExtractor.perform
 ````
+
+or
+
+```` sh
+bundle exec rake extract:events
+````
